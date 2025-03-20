@@ -12,24 +12,6 @@
 
 ###
 
-<h3 align="center"><samp>Connect</samp></h3>
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/ibrahim-wael-204091310/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="ibrahimwael809@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="65" height="65" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br><br>
-</div>
-
 <h3 align="center"><samp>Languages and Tools:</samp></h3>
 
 <table align="center">
