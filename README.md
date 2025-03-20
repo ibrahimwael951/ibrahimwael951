@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><samp>Hi, I'm <a href="https://ibrlolportfoli.vercel.app/" target="_blank">Ibrahim Weal</a></samp></h1>
+<h1 align="center"><samp>Hi, I'm <a href="https://ibrlolportfoli.vercel.app/" target="_blank">Ibrahim Wael</a></samp></h1>
 
 <h3><samp> A Software Engineer specialized in Frontend development </samp></h3>
 
