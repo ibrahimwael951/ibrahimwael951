@@ -4,11 +4,11 @@
 
 <h3><samp> A Software Engineer specialized in Frontend development </samp></h3>
 
-💻 <samp>Exploring new technologies and tools to enhance my coding knowledge.</samp>
-📱 <samp>Currently focusing on mastering Back-End Development to build scalable applications.</samp>
-🔍 <samp>Constantly refining my problem-solving and debugging skills in real-world scenarios.</samp>
-🚀 <samp>I’m on a journey to expand my skills and broaden my expertise.</samp>
-🎯 <samp>Striving to understand the full development stack for a more holistic approach.</samp>
+- 💻 <samp>Exploring new technologies and tools to enhance my coding knowledge.</samp>
+- 📱 <samp>Currently focusing on mastering Back-End Development to build scalable applications.</samp>
+- 🔍 <samp>Constantly refining my problem-solving and debugging skills in real-world scenarios.</samp>
+- 🚀 <samp>I’m on a journey to expand my skills and broaden my expertise.</samp>
+- 🎯 <samp>Striving to understand the full development stack for a more holistic approach.</samp>
 
 ###
 
